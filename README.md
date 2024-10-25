@@ -5,8 +5,8 @@ A Meu T.I é uma empresa de desenvolvimento de software sediada em São Paulo, S
 
 <div>
 <a href="https://github.com/meuti-company">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P3nn4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3nn4&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meuti-company&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meuti-company&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
