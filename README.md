@@ -2,7 +2,6 @@
 
 A Meu T.I é uma empresa de desenvolvimento de software sediada em São Paulo, SP, Brasil, dedicada a criar soluções personalizadas que atendam às necessidades distintas de vários clientes. Com forte ênfase em qualidade e inovação, , construímos nossa reputação na entrega de serviços excepcionais que não apenas abordam desafios técnicos imediatos, mas também antecipam tendências futuras do mercado.
 
-
 <div>
 <a href="https://github.com/meuti-company">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P3nn4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
